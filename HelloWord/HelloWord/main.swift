@@ -8,5 +8,5 @@
 
 import Foundation
 
-println("Hello, World!")
+println("日本語テスト")
 
