@@ -8,5 +8,10 @@
 
 import Foundation
 
-println("日本語テスト")
+let ErrorMsg="エラー発生"
+
+println(ErrorMsg)
+
+
+
 
