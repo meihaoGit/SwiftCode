@@ -4,3 +4,5 @@ Mac Add Text
 Test
 
 Hello
+http://safx-dev.blogspot.jp/2014/01/xcodeclangformat-xcode.html
+
