@@ -8,7 +8,7 @@
 
 import Foundation
 
-let ErrorMsg="エラー発生"
+let ErrorMsg="エラー発生."
 
 println(ErrorMsg)
 
