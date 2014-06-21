@@ -4,3 +4,5 @@ Mac Add Text
 Test
 
 Hello
+
+orientation  定位
